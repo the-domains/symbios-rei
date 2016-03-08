@@ -1,0 +1,28 @@
+name: Symbios REI
+favicon: null
+layout_spectrum: 0.6782307636458427
+typography_spectrum: 0.43330154474824667
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6712235040031374
+  lightness: 0.3032642842736095
+  saturation: 0.5324029971379787
+  rhythmicContrast: 0.5275927640032023
+purpose: []
